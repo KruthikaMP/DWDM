@@ -1,0 +1,2 @@
+java weka.core.Instances append C:\Users\ksand\OneDrive\Desktop\DWDM\weather1.arff C:\Users\ksand\OneDrive\Desktop\DWDM\weather2.arff > C:\Users\ksand\OneDrive\Desktop\DWDM\append.arff
+java weka.core.Instances merge C:\Users\ksand\OneDrive\Desktop\DWDM\weather1.arff C:\Users\ksand\OneDrive\Desktop\DWDM\weather2.arff > C:\Users\ksand\OneDrive\Desktop\DWDM\merge.arff
